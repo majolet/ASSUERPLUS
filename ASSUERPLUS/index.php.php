@@ -30,7 +30,7 @@
     <!-- Navbar -->
     <div class="container" >
       <div class="justify-content-start align-items-center ">
-      <a href="index.html" class="logo"><img src="visuels/logo rondtransparent.png" alt="" class="img-fluid"></a>
+      <a href="./index.php" class="logo"><img src="visuels/logo rondtransparent.png" alt="" class="img-fluid"></a>
     </div>
       <nav id="navbar" class="navbar">
         <ul class="justify-content-start align-items-center">
